@@ -1,6 +1,6 @@
 # Chrome-AI-Policy-Toggle-Windows-
 
-which is the same mechanism used by corporate IT environments and managed devices.
+A PowerShell utility to **enable or disable Google Chrome’s AI / Generative features** on Windows using official Chrome Enterprise policies.
 
 ---
 
